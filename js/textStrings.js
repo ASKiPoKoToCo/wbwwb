@@ -720,3 +720,105 @@ var textStrings_ZH_TW = {
     // (quote0004.png)
     "misatrributed"      : "(沒有說過)" ,
 };
+
+var textStrings_PTBR = {
+	// Act 1
+	"niceHat": "NOSSA! QUE CHAPÉU LEGAL!",
+	"outtaHere": "sim, eu tentei sair daqui",
+	"getARoom": "AAAAAAAA, PROCUREM UM QUARTO!",
+	"notCoolAnymore": "nah... chapéu não é mais tão legal...",
+	"tvOnTv": "TV... UMA TV!",
+	"cricky": "GRILIN FOFIN <3",
+	"tooManyCrickets": "são muitos grilos.",
+	"normalPeep": "apenas um cara normal",
+	"normalPeeps": "apenas alguns caras normals",
+	"wowNothing": "UUUAAAAUUUU, SÓ O AR, RESPIREM",
+
+	// Act 2
+	"crazySquareAttacks": "QUADRADO LOUCO ATACA",
+	"justMissed": "OPA, eu errei essa.",
+	"somethingInteresting": "(é preciso acha-los a fazer *alguma coisa* interessante...)",
+	"whoIsScreaming": "(quase peguei eles assustados)",
+	"circleFearsSquares": "CIRCULOS TEM MEDOS DE QUADRADOS",
+	"whoScaresThem": "(é preciso também achar o que os *assusta*)",
+	"areTheyScared": "(quase peguei o quadrado *assustando* eles)", // not used
+	"squaresSnubCircles": "QUADRADOS ESNOBARAM OS CIRCULOS",
+	"areTheySnubbed": "(quase peguei eles se )", // not used
+	"everyoneHates": "TODOS SE ODEIAM!!1!",
+	"almostEveryoneHates": "QUASE TODO MUNDO SE ODEIA...",
+	"squaresHateCircles": "QUADRADOS ODEIAM CIRCULOS...",
+	"circlesHateSquares": "CIRCULOS ODEIAM QUADRADOS...",
+	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
+	"nerdsNow": "o que esses nerds vão fazer agora?",
+	"schockedPeep": "por quê essa pessoa tá assustada?",
+	"whatever": "sei lá",
+
+	// Act 3
+	"ellipsis": ". . .",
+	"coolNoMore": "chapéus não são mais legais, lembra?",
+	"beScared": "TODOAS ASSSUSTADOS. TODOS BRAVOS.",
+
+	// MANIFESTO
+	"manifesto": [
+		//"as if you viewers want GOOD news"       ,
+		"quem é que sintoniza de ver *pessoas se dando bem?*",
+		"a paz é tão chata, violência é tão viral.",
+		//"peace is boring. conflict gets clicks." ,
+		"e a história termina aqui, então...",
+		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+		"...ENTREGUE A ELES O QUE ELES QUEREM."
+	],
+
+	// -- Strings currently in graphics resources --
+
+	// (bg_preload.png) Preload screen
+	"playingTime": "tempo de jogo: 5 minutinhos",
+	"warning": "ALERTA: esse programa\ntem cenas de arrogância\ngrosseria & assassinatos.\nvocê foi *AVISADO*.",
+
+	// (cam-instructions.png) Camera Instructions
+	"pointAndClick": "APONTE & CLIQUE",
+
+	// (chyron3.png)
+	"chyronNothing": "UUUAAAAUUUU, SÓ O *AR*",
+
+	// (credits0001.png)
+	"createdBy": "criado por",
+	"NickyCase": "Nicky Case",
+
+	// (credits0002.png)
+	"manyThanks": "muito obrigado aos meus testadores:",
+
+	// (credits000[3,4,5,6].png)
+	"patreonSupporters": "e aos meus seguidores do patreon:",
+
+	// (credits0007.png)
+	"lastButNotLeast": "mas ainda não acabou,",
+
+	// (credits0008.png)
+	"thankYouForPlaying": "obrigado a VOCÊ por ter jogado!",
+
+	// (preload_play.png)
+	"playButton": "JOGAR",
+
+	// (end_button.png) Post Credits
+	"otherWorkButton": "veja o meu trabalho",
+	"buyCoffeeButton": "me compre um café",
+	"replayButton": "jogue denovo",
+
+	// (logo.png) Post Credits
+	"logoWBWWB": "COMPATILHE ESSA DOR:",
+
+	// (end_prototype.png)
+	"endOfPrototype": "FIM DO PROTOTIPO",
+	"toBeContinued": "(isso irá continuar!)",
+
+	// (quote0002.png)
+	"WBWWB": "Nós nos tornamos o que nós vemos",
+	"WSOTATOTSU": "Nós moldamos as ferramentas, assim as ferramentas nos moldam.",
+
+	// (quote0003.png)
+	"MarshallMcLuhan": "Marshall McLuhan",
+
+	// (quote0004.png)
+	"misatrributed": "(misattributed)",
+};
